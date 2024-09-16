@@ -29,7 +29,7 @@ This project highlights freeCodeCamp's updated curriculum, focusing on project-b
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/BonheurN/Magazine
+    //github.com/BonheurN/Magazine
     ```
 2. Navigate to the project directory:
     ```bash
