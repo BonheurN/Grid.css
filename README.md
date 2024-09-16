@@ -33,7 +33,7 @@ This project highlights freeCodeCamp's updated curriculum, focusing on project-b
     ```
 2. Navigate to the project directory:
     ```bash
-    cd magazine-website
+    cd Magazine
     ```
 3. Open the `index.html` file in your browser to view the website locally.
 
