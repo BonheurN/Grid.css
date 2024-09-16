@@ -31,14 +31,11 @@ This project highlights freeCodeCamp's updated curriculum, focusing on project-b
     ```bash
     //github.com/BonheurN/Magazine
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd Magazine
-    ```
-3. Open the `index.html` file in your browser to view the website locally.
+2. Open the `index.html` file in your browser to view the website locally.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
+Feel free to adjust the sections or add any additional details specific to your project!
 
 https://www.veed.io/view/edd9b377-2274-4606-8331-d43037ccd467?panel=download
